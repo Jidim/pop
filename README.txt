@@ -1,6 +1,2 @@
 first
-<<<<<<< HEAD
 local
-=======
-Online
->>>>>>> c481da58400462cae1135fae7c3b9b3e1d4cbca0
